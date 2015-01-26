@@ -1,4 +1,4 @@
-#!/bin/sh perl
+#!/usr/bin/env perl
 =pod
 
 =head1 Twitter Applicatoin Only Search API
